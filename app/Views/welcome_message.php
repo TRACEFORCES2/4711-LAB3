@@ -105,7 +105,9 @@
 			</div>
 
 			<div class="guide">
-				<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+				<p>The page you are looking at has been edited by TEAM TRACE [CodeIgniter].</p>
+
+				<a href="/home/mate4">Mate 4</a>
 
 				<p>If you would like to edit this page you'll find it located at:</p>
 

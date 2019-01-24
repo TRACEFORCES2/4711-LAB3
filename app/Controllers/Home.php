@@ -10,6 +10,10 @@ class Home extends Controller
 	}
 
 	//--------------------------------------------------------------------
+    public function mate3()
+    {
+        return view('mate3');
+    }
 
   public function mate4()
   {

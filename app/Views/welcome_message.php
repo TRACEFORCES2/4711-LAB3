@@ -107,6 +107,8 @@
 			<div class="guide">
 				<p>The page you are looking at has been edited by TEAM TRACE [CodeIgniter].</p>
 
+				<a href="/home/mate1">Mate 1</a>
+				<a href="/home/mate3">Mate 3</a>
 				<a href="/home/mate4">Mate 4</a>
 
 				<p>If you would like to edit this page you'll find it located at:</p>

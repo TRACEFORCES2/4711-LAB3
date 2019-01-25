@@ -23,4 +23,10 @@ class Home extends Controller
   {
     return view('mate4');
   }
+
+  public function mate2(){
+      return view('mate2');
+  }
+
+
 }

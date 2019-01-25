@@ -24,7 +24,7 @@ class Home extends Controller
     return view('mate4');
   }
 
-  public function mate2(){
+  public function mate2(){ //aaron's mate 2 function
       return view('mate2');
   }
 
